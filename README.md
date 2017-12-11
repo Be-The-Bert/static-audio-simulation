@@ -4,9 +4,9 @@ This is a design for you to follow when completing your HTML5 mastery. The simpl
 
 ## Design
 
-<img src="https://github.com/Be-The-Bert/static-video-simulation/blob/master/example.gif" />
+<img src="https://github.com/Be-The-Bert/static-audio-simulation/blob/master/example.gif" />
 
-### Sample audio file is included in this reposity for your use
+### Sample audio file included in this repository for your use.
 
 ## Features
 This page exists to show mastery of competencies that are either uncommon in React, or created for you by using create-react-app
@@ -14,16 +14,16 @@ This page exists to show mastery of competencies that are either uncommon in Rea
 The design provided also includes some styling, but this should not be your main focus for this page as the more in depth simulations require styling as well. 
 
 ### Competencies Expected in This Page
-*Student can render elements onto a web page
-  *sections(article, section, footer)
-  *skeleton(html, body, head)
-  *attributes
-*Student can explain what web semantics are and can apply best practices in their HTML files
-*Student can use HTML5 elements such as video, audio, etc.
-*Student can explain how doctypes change how a browser reads a file
-*Student can provided meta data, such as title and description, for their website in the Head
-  *title
-  *description
-  *keywords
-  *mediatype
-*Student can run JavaScript on their websites using scripts.
+* Student can render elements onto a web page
+  * sections(article, section, footer)
+  * skeleton(html, body, head)
+  * attributes
+* Student can explain what web semantics are and can apply best practices in their HTML files
+* Student can use HTML5 elements such as video, audio, etc.
+* Student can explain how doctypes change how a browser reads a file
+* Student can provided meta data, such as title and description, for their website in the Head
+  * title
+  * description
+  * keywords
+  * mediatype
+* Student can run JavaScript on their websites using scripts.
